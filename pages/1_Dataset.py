@@ -16,7 +16,7 @@ st.set_page_config(page_title="Home",
 def main():
     st.title("Let's Generate DataSet for Computer Model ")
     
-    st.subheader(" Press Draw Images below") 
+    st.subheader(" Press Draw Images ") 
     st.write("Start drawing on the Canvas Opening Shortly")
     st.write("Try save atleast 5 images for your particular digit ")
     

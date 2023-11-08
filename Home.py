@@ -10,8 +10,8 @@ st.caption('This web application demostrate how kids can  create a model and tra
 # Content
 st.markdown("""
   DigiDraw: Where Numbers and Imagination Meet! An app that lets kids draw, learn, and explore the world of digits in a creative and magical way.
-- For Training [Click here for App](/Train/)  
-- Learn        [Click here for App](/Learn/)  
+- For Dataset [Click here for App](/Dataset/)  
+- For Training        [Click here for App](/Train/)  
 - For Testing  [Click here for App](/Test/)  
 
 
